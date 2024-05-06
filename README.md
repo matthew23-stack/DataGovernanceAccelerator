@@ -1,1 +1,2 @@
 # DataGovernanceAccelerator
+Currently, data governance is grappling with a public relations challenge.The topic of data governance seems abstract to far too many people without a full appreciation of its definition, role, and value. You may have experienced puzzled looks from friends, family, and colleagues when you told them that your work involves data governance.If you’re going to communicate the importance of data governance to your organization, you can first, for example, build a business case to explain the topic clearly.
